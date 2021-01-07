@@ -5,7 +5,7 @@ Aqui as nove Conquistas do #SilvestreTI na #PlataformaUpInside, algumas (3) entr
 ## Conquistas #UpInside #Profissionais 
 
 #### [1. Full Stack Developer](https://www.upinside.com.br/conquistas/46823) 
-(maio/20: 85 ~> 101 out/20 ~> 114 jan 2021)) 
+(85 maio/20 ~> 101 out/20 ~> 114 jan 2021)) 
 
 #### [2. Espírito de Equipe](https://www.upinside.com.br/conquistas/46829)
 (28 ~> 29 ~> 29) 
@@ -29,7 +29,7 @@ Aqui as nove Conquistas do #SilvestreTI na #PlataformaUpInside, algumas (3) entr
 (11.382 ~> 12.164 ~> 12.720) 
 
 #### [9. Membro do Club](https://www.upinside.com.br/conquistas/50339)
-( - / 2704 / -)  
+( - / 2.704 / 2.945)  
 
 ## Fonte: [Perfil OSF no Facebook](https://www.facebook.com/100013735389810/posts/972980549836449/)
 
